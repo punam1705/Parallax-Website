@@ -36,8 +36,8 @@ body {
   width: 100%;
   text-align: center;
   color: black;
-  font-size: 27px;
-  letter-spacing: 8px;
+   font-size: 100%;
+  letter-spacing: 40%;
   text-transform: uppercase;
 }
 .textBg {
